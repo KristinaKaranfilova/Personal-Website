@@ -32,3 +32,6 @@ body {
 a {
     color: White;
 }
+a:hover {
+    font-size: 40px;
+}
